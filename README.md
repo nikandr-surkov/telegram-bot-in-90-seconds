@@ -4,7 +4,7 @@ Build and deploy a serverless Telegram bot that responds with random GIFs in jus
 
 ## 🎥 Video Tutorial
 
-Watch the full video tutorial showing the entire process in 90 seconds: 
+Watch the full video tutorial showing the entire process in 90 seconds: https://www.youtube.com/watch?v=RpnaMaL3Kog
 
 ## ✨ Features
 
