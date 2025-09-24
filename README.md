@@ -136,9 +136,7 @@ Copy the production URL (e.g., `https://your-project.vercel.app`)
 Tell Telegram where to send updates. Replace `YOUR_BOT_TOKEN` and `YOUR_VERCEL_URL`:
 
 ```bash
-curl -X POST "https://api.telegram.org/botYOUR_BOT_TOKEN/setWebhook" \
-     -H "Content-Type: application/json" \
-     -d '{"url": "YOUR_VERCEL_URL/api/bot"}'
+curl "https://api.telegram.org/botYOUR_BOT_TOKEN/setWebhook?url=YOUR_VERCEL_URL/api/bot"
 ```
 
 You should see:
